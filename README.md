@@ -1,2 +1,2 @@
-# gmail-scraper
+# Gmail scraper
 Scrape my Gmail account.
